@@ -1,0 +1,1 @@
+# java-standard-input-standard-output
